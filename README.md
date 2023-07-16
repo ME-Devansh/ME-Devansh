@@ -5,9 +5,9 @@
 
 - 🌱 Currently learning about full-stack development **.**
 
-- 👯 Currently pursuing B.Tech in CSE from IIITG **.**
+- 👯 Completed B.Tech in CSE from IIITG **.**
 
-- 🤝 Worked mostly on competitive programming and app-development **.**
+- 🤝 Worked on Competitive Programming, Backend and App-Development **.**
 
 - ⚡ Fun fact : DP wa anime no dai fandesu **.**
 
